@@ -1,3 +1,7 @@
 body {
   background-color: cadetblue;
 }
+.img-thumbnail { 
+  width: 100px;
+  align-content: center; 
+}
